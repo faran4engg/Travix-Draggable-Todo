@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TxForm should render correctly  1`] = `ShallowWrapper {}`;
+
+exports[`TxForm when not passing editData prop should render empty form with blank fields  1`] = `ReactWrapper {}`;
+
+exports[`TxForm when passing editData prop with data should render form with prepopulated values  1`] = `ShallowWrapper {}`;

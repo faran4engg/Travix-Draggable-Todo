@@ -1,0 +1,53 @@
+{
+  "todo": {
+    "id": 0,
+    "title": "To do",
+    "color": "#ef5350",
+    "cards": [
+      {
+        "id": "09db0a87-5d66-4552-8743-701385b3fbc9",
+        "title": "Play Football",
+        "description": "Its been a while I am off the ground. Lets hit the field with amazing strikes this weekend."
+      }
+    ]
+  },
+  "inProgress": {
+    "id": 1,
+    "title": "In Progress",
+    "color": "#4fc3f7",
+    "cards": [
+      {
+        "id": "e8bedfab-6b23-485b-9f5d-e88f844c9836",
+        "title": "Code Review",
+        "description": "Travix Review is in progress"
+      },
+      {
+        "id": "c9ff590e-fbb3-4b7a-8888-42681d15fb47",
+        "title": "Learning",
+        "description": "Never stop learning"
+      }
+    ]
+  },
+  "done": {
+    "id": 2,
+    "title": "Done",
+    "color": "#dce775",
+    "cards": [
+      {
+        "id": "61a155b5-0da1-48e4-b410-5a8db794d3fc",
+        "title": "Be Creative",
+        "description": "Added Drag and Drop feature"
+      },
+      {
+        "id": "e8a9a6de-c8fc-4b23-a81c-1f9563950696",
+        "title": "Development",
+        "description": "Completed this version"
+      },
+      {
+        "id": "0b87878b-80aa-41a4-a1b1-a909ecd9a796",
+        "title": "Deployment",
+        "description": "Deployed on Heroku"
+      }
+    ]
+  }
+}

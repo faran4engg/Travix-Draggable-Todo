@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TxAddCardButton should render correctly  1`] = `ReactWrapper {}`;
+
+exports[`TxInput should render correctly  1`] = `ShallowWrapper {}`;
