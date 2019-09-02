@@ -105,3 +105,33 @@ npm run storybook
 ![Web](web.gif)
 
 ---
+
+## Running Test Cases
+
+> Test can be executed with the following commands
+
+```bash
+# First navigate into client folder
+cd client
+
+# Run below command
+npm test
+
+```
+
+---
+
+## ESLint
+
+> ESLint can be executed with the following commands
+
+```bash
+# First navigate into client folder
+cd client
+
+# Run below command
+npm run lint
+
+```
+
+---
