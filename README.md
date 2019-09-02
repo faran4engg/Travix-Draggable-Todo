@@ -39,23 +39,6 @@ npm run dev
 
 ---
 
-## Storybook
-
-![Storybook](storybook.gif)
-
-> Storybook can be run with the following command:
-
-```bash
-# First navigate into client folder
-cd client
-
-# Run below command
-npm run storybook
-
-```
-
----
-
 ## Features
 
 > Expected functionality:
@@ -70,6 +53,23 @@ npm run storybook
 - Drag and Drop feature
 - Categorized it into `Todo` , `InProgress` and `Done` state
 - `Storybook`
+
+---
+
+## Storybook
+
+![Storybook](storybook.gif)
+
+> Storybook can be run with the following command:
+
+```bash
+# First navigate into client folder
+cd client
+
+# Run below command
+npm run storybook
+
+```
 
 ---
 
